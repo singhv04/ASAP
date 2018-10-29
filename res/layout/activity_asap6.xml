@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="in.co.socioedu.asap_app.ASAP6">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textView3">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="25dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="16dp"
+                android:background="@color/greyx"
+                android:paddingBottom="5dp"
+                android:paddingEnd="2dp"
+                android:paddingStart="2dp"
+                android:paddingTop="5dp"
+                android:text="@string/snacks"
+                android:textAlignment="textStart"
+                android:textSize="25sp" />
+
+            <Button
+                android:id="@+id/chaat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="3dp"
+                android:background="@color/light_grey"
+                android:paddingBottom="5dp"
+                android:paddingEnd="2dp"
+                android:paddingStart="2dp"
+                android:paddingTop="5dp"
+                android:text="@string/chaat"
+                android:textAllCaps="false"
+                android:textAlignment="textStart"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/pasta"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="3dp"
+                android:background="@color/light_grey"
+                android:paddingBottom="5dp"
+                android:paddingEnd="2dp"
+                android:paddingStart="2dp"
+                android:paddingTop="5dp"
+                android:text="@string/pasta"
+                android:textAllCaps="false"
+                android:textAlignment="textStart"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/snacks"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="3dp"
+                android:background="@color/light_grey"
+                android:paddingBottom="5dp"
+                android:paddingEnd="2dp"
+                android:paddingStart="2dp"
+                android:paddingTop="5dp"
+                android:text="@string/snacks1"
+                android:textAllCaps="false"
+                android:textAlignment="textStart"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/maggi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="3dp"
+                android:background="@color/light_grey"
+                android:paddingBottom="5dp"
+                android:paddingEnd="2dp"
+                android:paddingStart="2dp"
+                android:paddingTop="5dp"
+                android:textAllCaps="false"
+                android:text="@string/maggi"
+                android:textAlignment="textStart"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/roll"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="3dp"
+                android:background="@color/light_grey"
+                android:paddingBottom="5dp"
+                android:paddingEnd="2dp"
+                android:paddingStart="2dp"
+                android:paddingTop="5dp"
+                android:text="@string/roll"
+                android:textAllCaps="false"
+                android:textAlignment="textStart"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/sprouts"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="3dp"
+                android:background="@color/light_grey"
+                android:paddingBottom="5dp"
+                android:paddingEnd="2dp"
+                android:paddingStart="2dp"
+                android:paddingTop="5dp"
+                android:text="@string/sprouts"
+                android:textAllCaps="false"
+                android:textAlignment="textStart"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/beverages"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="16dp"
+                android:background="@color/greyx"
+                android:paddingBottom="5dp"
+                android:paddingEnd="2dp"
+                android:paddingStart="2dp"
+                android:paddingTop="5dp"
+                android:textAlignment="textStart"
+                android:textSize="25sp"/>
+
+            <Button
+                android:id="@+id/saras_flavoured_milk"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="3dp"
+                android:background="@color/light_grey"
+                android:paddingBottom="5dp"
+                android:paddingEnd="2dp"
+                android:paddingStart="2dp"
+                android:paddingTop="5dp"
+                android:text="@string/saras_flavoured_milk"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/saras_lassi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="3dp"
+                android:background="@color/light_grey"
+                android:paddingBottom="5dp"
+                android:paddingEnd="2dp"
+                android:paddingStart="2dp"
+                android:paddingTop="5dp"
+                android:text="@string/saras_lassi"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/saras_chaach"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="3dp"
+                android:background="@color/light_grey"
+                android:paddingBottom="5dp"
+                android:paddingEnd="2dp"
+                android:paddingStart="2dp"
+                android:paddingTop="5dp"
+                android:text="@string/saras_chaach"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/saras_curd"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="3dp"
+                android:background="@color/light_grey"
+                android:paddingBottom="5dp"
+                android:paddingEnd="2dp"
+                android:paddingStart="2dp"
+                android:paddingTop="5dp"
+                android:text="@string/saras_curd"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/saras_fresh_fruit_juices"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="3dp"
+                android:background="@color/light_grey"
+                android:paddingBottom="5dp"
+                android:paddingEnd="2dp"
+                android:paddingStart="2dp"
+                android:paddingTop="5dp"
+                android:text="@string/saras_fresh_fruit_juices"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="19sp" />
+
+            <Button
+                android:id="@+id/saras_fruity_shakes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="3dp"
+                android:background="@color/light_grey"
+                android:paddingBottom="5dp"
+                android:paddingEnd="2dp"
+                android:paddingStart="2dp"
+                android:paddingTop="5dp"
+                android:text="@string/saras_fruity_shakes"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/saras_milk_shakes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="3dp"
+                android:background="@color/light_grey"
+                android:paddingBottom="5dp"
+                android:paddingEnd="2dp"
+                android:paddingStart="2dp"
+                android:paddingTop="5dp"
+                android:text="@string/saras_milk_shakes"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/saras_all_time_favourites"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="3dp"
+                android:background="@color/light_grey"
+                android:paddingBottom="5dp"
+                android:paddingEnd="2dp"
+                android:paddingStart="2dp"
+                android:paddingTop="5dp"
+                android:text="@string/saras_all_time_favourites"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/saras_special_shakes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="3dp"
+                android:background="@color/light_grey"
+                android:paddingBottom="5dp"
+                android:paddingEnd="2dp"
+                android:paddingStart="2dp"
+                android:paddingTop="5dp"
+                android:text="@string/saras_special_shakes"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="18sp" />
+
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/saras"
+        android:textAlignment="center"
+        android:textSize="35sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+
+
+
+</android.support.constraint.ConstraintLayout>

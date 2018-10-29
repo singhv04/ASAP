@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">ASAP</string>
+    <string name="customer">CUSTOMER</string>
+    <string name="business">BUSINESS</string>
+    <string name="choose1">Which college do you currently serve in?</string>
+    <string name="choose2">Which college you are in?</string>
+
+
+    <string name="next">NEXT</string>
+    <string name="register">REGISTER</string>
+    <string name="name">NAME</string>
+    <string name="contact">MOBILE NUMBER</string>
+    <string name="manipal">Manipal University Jaipur</string>
+    <string name="email">EMAIL ID</string>
+    <string name="registration_no">REGISTRATION NUMBER</string>
+    <string name="yo_zing">YO-ZING</string>
+    <string name="tuck_shop">TUCK SHOP</string>
+    <string name="chatkara">CHATKARA</string>
+    <string name="title_activity_asap7">ASAP7</string>
+    <string name="account_check">Already have an account?</string>
+    <string name="register_check">New User?</string>
+    <string name="login">Login</string>
+    <string name="password">PASSWORD</string>
+
+    <string name="defaultid">INDIA(+91)</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="shop_name">SHOP NAME</string>
+    <string-array name="college_names">
+
+        <item>Select</item>
+        <item>Manipal University Jaipur</item>
+    </string-array>
+    <string name="sign_out">Sign Out</string>
+    <string name="title_activity_asap4_5">ASAP4_5</string>
+    <string name="title_sign">All Snacks,All Products\n
+        As Soon As Possible</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_asap6x">ASAP6x</string>
+    <string name="item">ITEM</string>
+    <string name="price">PRICE</string>
+    <string name="quantity">0</string>
+    <string name="snacks">SNACKS</string>
+    <string name="drinks">DRINKS</string>
+    <string name="rs">Rs.</string>
+    <string name="place_order">PLACE ORDER</string>
+    <string name="add_to_cart">ADD TO CART</string>
+    <string name="saras">SARAS</string>
+    <string name="chaat">Chaat</string>
+    <string name="title_activity_asap6">ASAP6</string>
+    <string name="beverages">BEVERAGES</string>
+    <string name="snacks1">Snacks</string>
+    <string name="pasta">Pasta</string>
+    <string name="maggi">Maggi</string>
+    <string name="roll">Rolls</string>
+    <string name="sprouts">Sprouts</string>
+    <string name="saras_flavoured_milk">Saras Flavoured Milk</string>
+    <string name="saras_lassi">Sars Lassi</string>
+    <string name="saras_chaach">Saras Chaach</string>
+    <string name="saras_curd">Saras Curd</string>
+    <string name="saras_fresh_fruit_juices">Saras Fresh Fruit Juices</string>
+    <string name="saras_fruity_shakes">Saras Fruity Shakes</string>
+    <string name="saras_milk_shakes">Saras Milky Shakes</string>
+    <string name="saras_all_time_favourites">All Time Favourite</string>
+    <string name="saras_special_shakes">Saras Special Shakes</string>
+    <string name="proceed">PROCEED</string>
+    <string name="orders">ORDERS</string>
+    <string name="cart">CART</string>
+    <string name="proceed_to_cart">PROCEED TO CART</string>
+    <string name="categories">CATEGORIES:</string>
+    <string name="checking">CHECKING...</string>
+    <string name="add">ADD</string>
+    <string name="total_bill">Total Bill:0</string>
+    <string name="size">SIZE:</string>
+
+    <string-array name="size_names">
+
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+
+    </string-array>
+
+
+</resources>
