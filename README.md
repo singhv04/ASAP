@@ -6,3 +6,5 @@ The authentication used here is OTP along with the unique registration number of
 Email login can be used but there also the customers can have more than one mail id.One alternative is the Aadhar card number but actually that will drastically decrease the customers as they are too lazy to fill complete info of aadhaar card.
 
 Used firebase service to store the real time data and and authentication services.
+
+I have attached the screenshots in the 'screenshots' folder for reference.
