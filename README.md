@@ -7,4 +7,4 @@ Email login can be used but there also the customers can have more than one mail
 
 Used firebase service to store the real time data and and authentication services.
 
-I have attached the screenshots in the 'screenshots' folder for reference.
+I have attached the screenshots in the 'screenshots' folder for reference. You can go through it according to serial number.
