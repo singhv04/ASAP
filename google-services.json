@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1083815509635",
+    "firebase_url": "https://asap-39c77.firebaseio.com",
+    "project_id": "asap-39c77",
+    "storage_bucket": "asap-39c77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083815509635:android:66515dfdf40b7954",
+        "android_client_info": {
+          "package_name": "in.co.socioedu.asap_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083815509635-4v7gs5m70v59htljumdm754baou5dpf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.co.socioedu.asap_app",
+            "certificate_hash": "b7f35370c7e8f9ac8f799fedffd24dd1e113cd8a"
+          }
+        },
+        {
+          "client_id": "1083815509635-s48a1qa4eemrafva3qslocmnmta6aq66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaXeipNxu593hvI3J-IRYtRRsvaBaYMNU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083815509635-s48a1qa4eemrafva3qslocmnmta6aq66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
